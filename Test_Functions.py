@@ -8,4 +8,4 @@ def test_hello_who_max():
 
 def test_salary():
     assert(2, 2) != 8
-    assert(3, 1) !=     6
+    assert(3, 1) != 6
